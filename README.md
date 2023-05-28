@@ -20,6 +20,9 @@ The goal is to predict if a passenger survived the sinking of the Titanic or not
 The following `shubham-1.ipynb` file is a notebook from kaggle where you can see the code only in preview section, the code section has only a link which was used to connect the kaggle notebook to GitHub.
 
 I have explained the code in the comments in the preview section. Hope you like it.
+
+![Thankyou](https://github.com/Shubham-Diwadkar/Titanic---Machine_Learning_from_Disaster/assets/125255910/fc982237-07cb-4734-95e9-fd77d7774fd8)
+
 ## Authors
 
 - [@Shubham Diwadkar](https://www.github.com/Shubham-Diwadkar)
